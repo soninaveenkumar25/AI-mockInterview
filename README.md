@@ -1,3 +1,14 @@
+Project title: AI Mock Interview Description: A website that asks interview questions, allows users to answer, and provides AI-powered feedback.
+
+📌 Tech Stack: React.js, Node.js, PostgreSQL, Gemini AI.
+
+📌 Features: Question answering, feedback, rating system.
+
+📌 How to run locally (steps to install dependencies + run frontend/backend).
+
+📌 Future improvements (e.g., add timer, difficulty levels).
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
